@@ -87,7 +87,6 @@ typings/
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
 doc
 
 # Logs
@@ -173,7 +172,6 @@ typings/
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
 doc
 
 # Logs
